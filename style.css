@@ -1,0 +1,142 @@
+     body {
+          margin: 0px;
+          background-image: url(dbd.jpg);
+     }
+     @font-face {
+        font-family: Los-Angeles-Deco;
+        src: url(Los-Angeles-Deco.ttf);
+     }
+     .header {
+          height: 180px;
+          display: flex;
+     }
+     .img {
+          height: 140px;
+          width: 250px;
+          margin-top: 20px;
+          margin-left: 50px;
+     }
+     .steam {
+          height: 140px;
+          opacity: 0.4;
+     }
+     .ssilki {
+          height: 80px;
+          width: 600px;
+          margin-top: 20px;
+          margin-left: 50px;
+          padding-top: 60px;
+     }
+     .a {
+          text-decoration: none;
+          color: white;
+          margin-left: 30px;
+          text-align: center;
+          font-family: Arial;
+     }
+     .input {
+          height: 140px;
+          width: 300px;
+          margin-top: 20px;
+          margin-left: 50px;
+     }
+     .int {
+          background: rgba( 0,0,0,0.5);
+          border: none;
+          margin-top: 40px;
+          height: 60px;
+          width: 250px;
+          border-radius: 10px;
+     }
+     .button {
+          height: 140px;
+          width: 240px;
+          margin-top: 20px;
+          margin-left: 50px;
+     }
+     .but {
+          width: 230px;
+          height: 60px;
+          border: none;
+          background: rgba( 0,255,0,0.5);
+          margin-top: 40px;
+          border-radius: 10px;
+     }
+     .login {
+          width: 50px;
+          height: 140px;
+          margin-top: 20px;
+          margin-left: 20px;
+     }
+     .log {
+          margin-top: 50px;
+          width: 50px;
+          height: 40px;
+          border: none;
+          font-family: Arial;
+          font-size: 15px;
+          background: rgba( 0,0,0,0.5);
+          border-radius: 10px;
+          color: white;
+     }
+     .open {
+          margin-top: 20px;
+          margin-left: 20px;
+          width: 200px;
+          height: 140px;
+     }
+     .select {
+          width: 140px;
+          height: 40px;
+          margin-top: 50px;
+          border: none;
+          font-size: 15px;
+          background: rgba( 0,0,0,0.5);
+          border-radius: 10px;
+          color: white;
+     }
+     .body {
+          height: 300px;
+          width: 500px;
+          margin-top: 130px;
+          margin-left: 50px;
+     }
+     .dbd {
+          margin-left: 40px;
+          padding-top: 20px;
+     }
+     .text {
+          font-family: Arial;
+          font-size: 30px;
+          color: white;
+     }
+     .price {
+          font-family: Arial;
+          padding-bottom: 30px;
+          color: white;
+     }     
+     .knop {
+          width: 230px;
+          height: 60px;
+          border: none;
+          background: rgba( 0,0,0,0.5);
+          margin-left: 40px;
+          border-radius: 10px;
+          color: white;
+     }
+     .ifa {
+          margin-left: 1100px;
+          margin-top: 100px;
+     }
+     .footer {
+          height: 280px;
+          margin-top: 89px;
+          width: 900px;
+     }
+     .rec {
+          margin-left: 60px;
+          font-family: Arial;
+          font-size: 30px;
+          color: white;
+     }
+]]]
